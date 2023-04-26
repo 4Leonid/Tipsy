@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		680DAA5229F99ED000946A9C /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 680DAA5129F99ED000946A9C /* ResultViewController.swift */; };
 		685BFA0329F6EA58000F147E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685BFA0229F6EA58000F147E /* AppDelegate.swift */; };
 		685BFA0529F6EA58000F147E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685BFA0429F6EA58000F147E /* SceneDelegate.swift */; };
 		685BFA0729F6EA58000F147E /* MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 685BFA0629F6EA58000F147E /* MainViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		680DAA5129F99ED000946A9C /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		685BF9FF29F6EA58000F147E /* Tipsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		685BFA0229F6EA58000F147E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		685BFA0429F6EA58000F147E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				685BFA0229F6EA58000F147E /* AppDelegate.swift */,
 				685BFA0429F6EA58000F147E /* SceneDelegate.swift */,
 				685BFA0629F6EA58000F147E /* MainViewController.swift */,
+				680DAA5129F99ED000946A9C /* ResultViewController.swift */,
 				685BFA0829F6EA58000F147E /* Main.storyboard */,
 				685BFA0B29F6EA59000F147E /* Assets.xcassets */,
 				685BFA0D29F6EA59000F147E /* LaunchScreen.storyboard */,
@@ -149,6 +152,7 @@
 				685BFA0729F6EA58000F147E /* MainViewController.swift in Sources */,
 				685BFA0329F6EA58000F147E /* AppDelegate.swift in Sources */,
 				685BFA0529F6EA58000F147E /* SceneDelegate.swift in Sources */,
+				680DAA5229F99ED000946A9C /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
